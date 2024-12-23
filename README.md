@@ -1,6 +1,6 @@
 **Geopolitics Quiz Application**
 
-Description:
+Project Overview:
 The Geopolitics Quiz Application is a Python-based interactive console application designed to test your knowledge of global politics, history, and current affairs. The program allows users to answer a series of multiple-choice questions and provides feedback on their performance. It calculates the total score and accuracy percentage at the end of the quiz, making it an engaging way to learn and compete with friends.
 
 Features:
