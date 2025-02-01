@@ -4,12 +4,16 @@ Project Overview:
 
 The Geopolitics Quiz Application is a Python-based interactive console application designed to test your knowledge of global politics, history, and current affairs. The program allows users to answer a series of multiple-choice questions and provides feedback on their performance. It calculates the total score and accuracy percentage at the end of the quiz, making it an engaging way to learn and compete with friends.
 
+<hr/>
+
 Features:
 * Interactive Gameplay: Users can answer 15 carefully curated questions on geopolitics.
 * Real-Time Feedback: Tracks correct and incorrect answers during gameplay.
 * Scoring System: Displays total score and accuracy percentage upon quiz completion.
 * Replay Option: Allows users to play the quiz multiple times for improved performance and learning.
 * Dynamic User Input: Customized for each user based on their name.
+
+<hr/>
 
 How to Use:
 1. Run the Application: Execute the script in a Python environment.
@@ -18,19 +22,18 @@ How to Use:
 4. View Results: At the end of the quiz, see your total score and accuracy percentage.
 5. Replay or Exit: Choose to replay the quiz or exit after finishing.
 
+<hr/>
+
 Installation:
 * Install Python (version 3.6 or above).
 * Download the script file.
 * Open the terminal or command prompt.
 * Navigate to the folder containing the script.
 
-Run the script using:
-bash
-Copy code
-python geopolitics_quiz.py
-Sample Output
-vbnet
-Copy code
+<hr/>
+
+Run the script using: python geopolitics_quiz.py
+Sample Output:
 Enter your name to start the Quiz: Alex  
 Hello Alex! Welcome to the Geopolitics Quiz.
 
